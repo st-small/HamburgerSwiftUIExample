@@ -13,6 +13,7 @@
 		84FBC32E23819925006C0374 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84FBC32D23819925006C0374 /* Assets.xcassets */; };
 		84FBC33123819925006C0374 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84FBC33023819925006C0374 /* Preview Assets.xcassets */; };
 		84FBC33423819925006C0374 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84FBC33223819925006C0374 /* LaunchScreen.storyboard */; };
+		84FBC33C23819CA3006C0374 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84FBC33B23819CA3006C0374 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84FBC33023819925006C0374 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		84FBC33323819925006C0374 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84FBC33523819925006C0374 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84FBC33B23819CA3006C0374 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				84FBC32723819924006C0374 /* AppDelegate.swift */,
 				84FBC32923819924006C0374 /* SceneDelegate.swift */,
 				84FBC32B23819924006C0374 /* ContentView.swift */,
+				84FBC33B23819CA3006C0374 /* MenuView.swift */,
 				84FBC32D23819925006C0374 /* Assets.xcassets */,
 				84FBC33223819925006C0374 /* LaunchScreen.storyboard */,
 				84FBC33523819925006C0374 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84FBC32823819924006C0374 /* AppDelegate.swift in Sources */,
+				84FBC33C23819CA3006C0374 /* MenuView.swift in Sources */,
 				84FBC32A23819924006C0374 /* SceneDelegate.swift in Sources */,
 				84FBC32C23819924006C0374 /* ContentView.swift in Sources */,
 			);
